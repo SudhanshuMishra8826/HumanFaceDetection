@@ -1,5 +1,2 @@
 # HumanFaceDetection
-This uses simple open cv to detect Human faces in the frame.
-Python code for both Human face detection on Images and videos is included.
-The code is as simple as it can be.
-Feel free to fork and contribute.
+A simple OpenCV code to detect Human faces in the frame.
